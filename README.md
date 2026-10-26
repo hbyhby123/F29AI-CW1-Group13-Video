@@ -4,6 +4,8 @@ This public repository hosts only the coursework demonstration video and viewing
 
 ## Watch the video
 
+[Open the video player without signing in](https://hbyhby123.github.io/F29AI-CW1-Group13-Video/)
+
 [Watch the demonstration video on GitHub](https://github.com/hbyhby123/F29AI-CW1-Group13-Video/blob/main/coursework_demo.mp4)
 
 [Open or download the MP4 directly](https://raw.githubusercontent.com/hbyhby123/F29AI-CW1-Group13-Video/main/coursework_demo.mp4)
